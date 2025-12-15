@@ -1,0 +1,4 @@
+I am unable to  reconnect the RC car to my local network as of 12/13/24 (despite working previously).
+Short of reflashing the OS and reuploading the python script with dependencies, I am not able to get it to work again due to these network issues. 
+
+The provided video demonstrates most of the functionality, though with a somewhat more jittery servo motion. 
